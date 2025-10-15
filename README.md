@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Dima 👋</h1>
+T<h1 align="center">Hey, I'm Dima 👋</h1>
 
 
 <h3 align="center">About me</h3>
@@ -60,4 +60,3 @@
 
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=DmitriyAfanasev&icon=0&color=0)](https://visitcount.itsvg.in)
