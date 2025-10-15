@@ -1,4 +1,4 @@
-T<h1 align="center">Hey, I'm Dima 👋</h1>
+<h1 align="center">Hey, I'm Dima 👋</h1>
 
 
 <h3 align="center">About me</h3>
