@@ -14,7 +14,12 @@
 
 - 🎯 **Goal:** I am actively looking for a team for long-term collaboration where I can contribute value and grow professionally by working on complex and multi-faceted projects.
 ---
-
+### 🚀 My Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,kafka,elasticsearch,mongodb,nginx,flask,linux,docker,gitlab,neovim" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 
