@@ -1,10 +1,12 @@
-<h1 align="center">Hey, I'm Dima 👋</h1>
 ### 🚀 My Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,mongodb,nginx,flask,linux,docker,gitlab" />
   </a>
 </p>
+
+
+<h1 align="center">Hey, I'm Dima 👋</h1>
 
 <h3 align="center">About me</h3>
 
