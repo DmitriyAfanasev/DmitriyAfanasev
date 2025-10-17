@@ -1,7 +1,6 @@
-### 🚀 My Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,mongodb,nginx,flask,linux,docker,gitlab" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,djangorestframework,sqlalchemy,postgres,redis,rabbitmq,mongodb,nginx,flask,linux,docker,gitlab" />
   </a>
 </p>
 
