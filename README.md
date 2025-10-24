@@ -4,7 +4,10 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=C3F72C&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+my+little+programming+lovers);+Life+is+one+thing+-+get+high!"               alt="Typing SVG" /></a>
+</p>
 <h1 align="center">Hey, I'm Dima 👋</h1>
 
 <h3 align="center">About me</h3>
