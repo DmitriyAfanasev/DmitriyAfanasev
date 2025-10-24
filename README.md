@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,pytest,celery,vscode,postgres,redis,rabbitmq,mongodb,nginx,flask,linux,docker,gitlab" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,vscode,postgres,redis,rabbitmq,mongodb,nginx,flask,linux,docker,gitlab" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <h3 align="center">About me</h3>
 
 
-- 🚀 **Python Back-End Developer.** I specialize in designing and building reliable server systems.
+- 🚀 **Python Backend Developer.** I specialize in designing and building reliable server systems.
 
 - 🛠️ **Core Stack:** I confidently code in **Python**. I prefer **FastAPI** for high-performance solutions and effectively use **Django**/**DRF** 🤠 for rapid prototyping and API development.
 
