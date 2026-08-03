@@ -12,7 +12,7 @@
 
 <h3 align="center">About me</h3>
 
-- 🚀 **Python Backend Developer.** I specialize in designing and building reliable server systems.
+- 🚀 **Backend Developer.** I specialize in designing and building reliable server systems.
 
 - 🛠️ **Core Stack:** I confidently code in **Python**. I prefer **FastAPI** for high-performance solutions and effectively use **Django**/**DRF** 🤠 for rapid prototyping and API development.
 
